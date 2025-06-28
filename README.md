@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Health-Tech-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Built%20With-Next.js-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deployed%20On-Vercel-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deployed%20On-Netlify-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge" />
 </p>
 
