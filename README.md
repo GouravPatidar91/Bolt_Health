@@ -1,41 +1,84 @@
+<h1 align="center">🧠 HealthMatch</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Health-Tech-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Built%20With-Next.js-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deployed%20On-Vercel-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://healthmatch-seven.vercel.app/preview.gif" width="80%" alt="HealthMatch UI Preview">
+</p>
+
+---
+
+# 🏥 HealthMatch: AI Meets Healthcare
+
+**HealthMatch** is an AI-powered web app that helps users **instantly match daily symptoms with likely medical conditions**. It's your smart first step before seeing a doctor—designed for accessibility, simplicity, and trust.
+
+> 🔍 Imagine Googling your symptoms and getting **accurate, medically relevant** suggestions — **without ads, fear, or misinformation**. That’s HealthMatch.
+
+---
+
+## 🌟 Why It Stands Out
+
+🧠 **AI-Driven Accuracy** – Powered by symptom-disease mapping models  
+🎯 **Laser-Focused UX** – Built for both patients and doctors  
+📱 **Lightning Fast** – Deployed on Vercel with blazing performance  
+🧑‍⚕️ **Doctor Feedback Loop** – Medical professionals can validate AI results  
+🌎 **Daily Symptom Scope** – Targets real-world, everyday health scenarios
+
+---
+
+## 🔮 Live Demo
+
+> 🌐 [Visit HealthMatch](https://healthmatch-seven.vercel.app)
+
+Try entering symptoms like:
+fatigue and sore throat
+fever with headache
+loss of taste
 
 
-Follow these steps:
+Get immediate AI-backed insights on what might be going on with your health.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🧑‍⚕️ Doctor Accuracy Initiative
 
-# Step 3: Install the necessary dependencies.
-npm i
+> 🎯 We bridge AI & healthcare with a **survey-driven validation system**.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+### 👨‍⚕️ Are you a doctor or med student?
+Help us validate AI diagnosis accuracy with real feedback.  
+📋 [Doctor Feedback Form – Coming Soon]
+
+---
+
+## ⚙️ Tech Stack
+
+| Category         | Tech Used                              |
+|------------------|-----------------------------------------|
+| Frontend         | Next.js, React, TypeScript              |
+| Styling          | Tailwind CSS / CSS Modules              |
+| AI Model         | OpenAI API / Custom Rule-Based Logic    |
+| Backend (if any) | Next.js API Routes                      |
+| Deployment       | Vercel (Serverless, CDN, Previews)      |
+| Future DB        | Firebase or Supabase (planned)          |
+
+---
+
+## 🛠️ Installation & Dev Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/healthmatch.git
+cd healthmatch
+
+# Install dependencies
+npm install
+
+# Run locally
 npm run dev
-```
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+# Open in browser
+http://localhost:3000
