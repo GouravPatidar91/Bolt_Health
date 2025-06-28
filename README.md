@@ -62,7 +62,7 @@ Help us validate AI diagnosis accuracy with real feedback.
 | Styling          | Tailwind CSS / CSS Modules              |
 | AI Model         | OpenAI API / Custom Rule-Based Logic    |
 | Backend (if any) | Next.js API Routes                      |
-| Deployment       | Vercel (Serverless, CDN, Previews)      |
+| Deployment       | Netlify (Serverless, CDN, Previews)      |
 | Future DB        | Firebase or Supabase (planned)          |
 
 ---
