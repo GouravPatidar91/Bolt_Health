@@ -24,7 +24,7 @@
 
 🧠 **AI-Driven Accuracy** – Powered by symptom-disease mapping models  
 🎯 **Laser-Focused UX** – Built for both patients and doctors  
-📱 **Lightning Fast** – Deployed on Vercel with blazing performance  
+📱 **Lightning Fast** – Deployed on Netlify with blazing performance  
 🧑‍⚕️ **Doctor Feedback Loop** – Medical professionals can validate AI results  
 🌎 **Daily Symptom Scope** – Targets real-world, everyday health scenarios
 
