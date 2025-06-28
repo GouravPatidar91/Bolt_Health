@@ -32,7 +32,7 @@
 
 ## 🔮 Live Demo
 
-> 🌐 [Visit HealthMatch](https://healthmatch-seven.vercel.app)
+> 🌐 [Visit HealthMatch](https://bolthealthmatch.netlify.app/)
 
 Try entering symptoms like:
 fatigue and sore throat
